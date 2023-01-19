@@ -5,7 +5,7 @@ It is a School Management System. In this system, a school can manage their stud
 
 ## Developed Using
 * Programing Languages: Java
-* Storage System: Java File System
+* Data Storage System: Java File System
 * GUI: Java Swing
 
 ## Developed By
