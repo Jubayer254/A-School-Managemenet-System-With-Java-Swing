@@ -58,4 +58,4 @@ It is a School Management System. In this system, a school can manage their stud
   
 
 ## Compatibility 
-All Operating System including: `Windows` `Linux` `MAC OS` with `Java Runtime Environment`
+All Operating System including: `Windows` `Linux` `MAC OS` with `Java Runtime Environment`.
