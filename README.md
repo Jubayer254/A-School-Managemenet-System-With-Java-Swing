@@ -22,36 +22,36 @@ It is a School Management System. In this system, a school can manage their stud
 
 * Splash Screen
 
-<img src="Screenshots\1.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\1.png" alt="" style="width:720px;"/>
 
 * Login Page
 
-<img src="Screenshots\2.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\2.png" alt="" style="width:720px;"/>
 
 * SignUp Page
 
-<img src="Screenshots\3.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\3.png" alt="" style="width:720px;"/>
 
 * Student Entry Page
 
-<img src="Screenshots\4.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\4.png" alt="" style="width:720px;"/>
 
 * Delete Sutudent Page
 
-<img src="Screenshots\5.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\5.png" alt="" style="width:720px;"/>
 
 * Payment Page
 
-<img src="Screenshots\6.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\6.png" alt="" style="width:720px;"/>
 
 * Student Searching Page
 
-<img src="Screenshots\7.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\7.png" alt="" style="width:720px;"/>
 
 * Student Information Page
 
-<img src="Screenshots\8.png" alt="" style="width:1080px;"/>
+<img src="Screenshots\8.png" alt="" style="width:720px;"/>
   
 
 ## Compatibility 
-All devices including: `PC` `Laptop` `Smartphone` `Tablet`
+All Operating System including: `Windows` `Linux` `MACOS` with `Java Runtime Environment`
