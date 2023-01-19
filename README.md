@@ -26,7 +26,7 @@ It is a School Management System. In this system, a school can manage their stud
 
 * Splash Screen
 
-<img src="Screenshots\1.png" alt="" style="width:320px;"/>
+<img src="Screenshots\1.png" alt="" style="width:420px;"/>
 
 * Login Page
 
