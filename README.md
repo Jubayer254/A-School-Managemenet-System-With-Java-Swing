@@ -20,7 +20,7 @@ It is a School Management System. In this system, a school can manage their stud
 * Delete Student
 * Make Payment
 * Search Student
-* View Student Informations
+* View Student Information
 
 ## Snapshots
 
